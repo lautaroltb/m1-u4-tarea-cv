@@ -1,0 +1,32 @@
+h1{
+    color: red; /*color de la letra*/
+    background-color: yellow; /*fondo*/
+    text-align: center;
+
+}
+h2{
+    color: aqua;
+    text-transform: uppercase; 
+}
+
+.destacados{
+    color: blueviolet;
+}
+.cursos{
+    color: blue;
+}
+.primaria{
+    color: darkgreen;
+}
+.secundario{
+    color: darkgoldenrod;
+}
+h3{
+    color: brown;
+}
+.perfil{
+    color: chocolate;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
